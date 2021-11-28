@@ -2,9 +2,12 @@
 ## _Toy Robot Implementation by David Ninnes_ 
 
 ### Development Environment
-Visual Studio 2022 
-.Net 6.0
-Windows 10
+Visual Studio 2022  
+
+.Net 6.0  
+
+Windows 10  
+ 
 
 ## Build
 
